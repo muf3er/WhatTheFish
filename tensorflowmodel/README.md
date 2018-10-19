@@ -1,9 +1,8 @@
 # Overview
 
-This repo contains code for the "TensorFlow for poets 2" series of codelabs.
+This repo contains code for the "TensorFlow for Fish" developed by Blue# Team.
 
-There are multiple versions of this codelab depending on which version 
-of the tensorflow libraries you plan on using:
+Below are the links for Reference materials for building such models.
 
 * For [TensorFlow Lite](https://www.tensorflow.org/mobile/tflite/) the new, ground up rewrite targeted at mobile devices
   use [this version of the codelab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite) 
@@ -18,3 +17,4 @@ This repo contains simplified and trimmed down version of tensorflow's example i
 
 The `scripts` directory contains helpers for the codelab. Some of these come from the main TensorFlow repository, and are included here so you can use them without also downloading the main TensorFlow repo (they are not part of the TensorFlow `pip` installation).
 
+**Thank you**
